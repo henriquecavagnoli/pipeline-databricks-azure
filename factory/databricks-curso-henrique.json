@@ -1,0 +1,15 @@
+{
+	"name": "databricks-curso-henrique",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c6ec1e2-7ec7-49ab-b89e-e1fbfed01d9f",
+		"tenantId": "0ab152ad-cecd-46a4-937a-81828b660780"
+	}
+}
